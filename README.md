@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @LinksGPT
-- 👀 I’m interested in secure, cost-effective link management for custom URLs, brand growth, and conversion optimization.
-- 🌱 I’m currently learning Generative AI for URL Shortener, URL Expander and SEO.
-- 💞️ I’m looking to collaborate on projects that involve short URL management and data-driven marketing strategies.
-- 📫 How to reach me: Send mail to service@linksgpt.com or Visit https://www.linksgpt.com/
-- ⚡ Fun fact: Did you know that custom short URLs can increase brand recognition? My products mainly offers: intelligent URL shortening and expansion, custom domains, team roles, customizable QR codes, tracking and AI-based in-depth analytics, deep linking, openAPI and enhanced link security. Powered by AI, it provides intelligent insights and recommendations based on user behavior and click patterns, support data-driven brand strategies and marketing decisions.
+- 👋 Hi, I’m Jerry Tan! I’m a serial entrepreneur and passionate about technology and innovation, with a focus on cloud, security, AI, and data-driven growth solutions.
+- 👀 I enjoy exploring how secure and creative link management can enhance user experience and brand growth.
+- 🌱 Currently, I’m diving into Generative AI to enhance tools for URL shortening, expansion and SEO.
+- 💞️ I love building tools and experimenting with ideas that merge technology and creativity.
+- 📫 Feel free to connect with me on my journey: [LinksGPT.com](https://www.linksgpt.com)
+- ⚡ Fun fact: I’m fascinated by how something as simple as a link can unlock new opportunities for brands and individuals. Let’s chat about ideas, projects, or just interesting tech trends!
 
 <!---
 LinksGPT/LinksGPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
